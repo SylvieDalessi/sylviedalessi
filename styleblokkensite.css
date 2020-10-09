@@ -1,0 +1,47 @@
+#wrapper {
+  background-color: pink;
+  width: 1300px;
+  height: 800px;
+  font-family: Arial;
+  margin: 40px 10px;
+}
+
+#blok1 {
+  background-color: lightblue;
+  width: 200px;
+  height: 200px;
+  margin: 50px 40px;
+  padding: 20px;
+  font-family: Arial;
+  color: white;
+  float:left;
+}
+#blok2 {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  margin: 50px 40px;
+  padding: 20px;
+  font-family: Tahoma;
+  color: white;
+  font-family: Tahoma;
+  float:left;
+  
+
+}
+
+#blok1 h1 {
+  color: white;
+
+}
+
+header {
+  background-color: lightgreen;
+  height: 50px;
+
+}
+
+* {
+font-style: italic;
+
+}
